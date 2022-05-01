@@ -1,5 +1,5 @@
 {
-  "name": "x",
+  "name": "sveltekit-study",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
