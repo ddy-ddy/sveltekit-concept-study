@@ -8,3 +8,6 @@
 - learning loading data $ SSR
 - client-side vs Server-side
 
+### v4
+- Dynamic Routes
+- Redirects
