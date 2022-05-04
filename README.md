@@ -14,3 +14,6 @@
 
 ### v5
 - Prefecting Data & Error page
+
+### v6
+- API routes

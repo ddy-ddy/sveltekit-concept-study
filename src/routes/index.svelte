@@ -2,7 +2,7 @@
 </script>
 
 <div class="index">
-  <p>这就是爱啊啊啊啊啊啊啊</p>
+  <p>欢迎光临👏🏻</p>
   <a href="/guides">View Guides</a>
   <a href="/about">About</a>
 </div>
